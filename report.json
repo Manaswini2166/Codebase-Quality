@@ -1,0 +1,34 @@
+[
+  {
+    "file": "sample_input.py",
+    "rule_id": "DEPR_001",
+    "category": "Deprecated",
+    "severity": "HIGH",
+    "message": "Deprecated module 'imp' used",
+    "line": 1
+  },
+  {
+    "file": "sample_input.py",
+    "rule_id": "MAINT_002",
+    "category": "Maintainability",
+    "severity": "MEDIUM",
+    "message": "Function 'very_long_function' has too many parameters (6)",
+    "line": 4
+  },
+  {
+    "file": "sample_input.py",
+    "rule_id": "SMELL_001",
+    "category": "Code Smell",
+    "severity": "MEDIUM",
+    "message": "Deep nesting detected",
+    "line": 9
+  },
+  {
+    "file": "sample_input.py",
+    "rule_id": "SMELL_001",
+    "category": "Code Smell",
+    "severity": "MEDIUM",
+    "message": "Deep nesting detected",
+    "line": 10
+  }
+]
